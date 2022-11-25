@@ -1,1 +1,4 @@
-# pune
+latur
+sangli
+beed
+pune
